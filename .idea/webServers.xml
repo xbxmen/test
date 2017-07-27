@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="03c6cbf8-30cc-4839-b2e8-7d3ca2c947f6" name="ios" url="http://115.28.201.92">
+        <fileTransfer host="115.28.201.92" port="22" rootFolder="/var/www/html/ios" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
